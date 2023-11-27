@@ -1,0 +1,11 @@
+{
+	"id": "backlink-image-gallery",
+	"name": "Backlink Image Gallery",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Renders a gallery of images from backlinks to the current note.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
